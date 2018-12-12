@@ -123,10 +123,7 @@ Wechat.chooseInvoiceFromWX(data,function(data){
     alert('error');
 })
 ```
-
-# FAQ
-
-See [FAQ](https://github.com/xu-li/cordova-plugin-wechat/wiki/FAQ).
+ 
 
 # TODO
 
