@@ -1,4 +1,4 @@
-# cordova-plugin-wechat
+# cordova-plugin-weChatPay
 
 A cordova plugin, a JS version of Wechat SDK
 
@@ -6,13 +6,11 @@ A cordova plugin, a JS version of Wechat SDK
 
 Share title, description, image, and link to wechat moment(朋友圈)，choose invoice from Wechat list
 
-# Example
-
-See [cordova-plugin-wechat-example](https://github.com/xu-li/cordova-plugin-wechat-example)
+ 
 
 # Install
 
-1. ```cordova plugin add cordova-plugin-wechat  --variable wechatappid=YOUR_WECHAT_APPID```, or using [plugman](https://npmjs.org/package/plugman), [phonegap](https://npmjs.org/package/phonegap), [ionic](http://ionicframework.com/)
+1. ```cordova plugin add cordova-plugin-weChatPay  --variable wechatappid=YOUR_WECHAT_APPID```, or using [plugman](https://npmjs.org/package/plugman), [phonegap](https://npmjs.org/package/phonegap), [ionic](http://ionicframework.com/)
 
 2. ```cordova build ios``` or ```cordova build android```
 
@@ -141,6 +139,9 @@ See [FAQ](https://github.com/xu-li/cordova-plugin-wechat/wiki/FAQ).
 4. ~~Other APIs~~
 
 5. ~~Android Version update~~
+
+# reference
+https://github.com/xu-li/cordova-plugin-wechat
 
 # LICENSE
 
