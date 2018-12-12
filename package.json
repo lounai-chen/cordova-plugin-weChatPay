@@ -1,0 +1,72 @@
+{
+  "_from": "cordova-plugin-weChatPay",
+  "_id": "cordova-plugin-weChatPay",
+  "_inBundle": false,
+  "_integrity": "sha512-CzBAqWHtWuxnIHilFR/7VyDqHZup7AIThkNVIIbWhR2FgdFn9UPg4PBIFKzM3zdpAqRGfKX0kGGnn+z//QPPeg==",
+  "_location": "/cordova-plugin-weChatPay",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-weChatPay",
+    "name": "cordova-plugin-weChatPay",
+    "escapedName": "cordova-plugin-weChatPay",
+    "rawSpec": "2.1.0",
+    "saveSpec": null,
+    "fetchSpec": "2.1.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_shasum": "37fd5f26d11d5df1f52a3aa3c231fb971eead3bb",
+  "_spec": "cordova-plugin-weChatPay",
+  "_where": "G:\\chestnutapp",
+  "author": {
+    "name": "chenlounai",
+    "email": "1871837908@QQ.com"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-weChatPay",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "A cordova plugin, a JS version of weChatPay SDK",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">=6.1.0",
+        "cordova-android": ">=6.1.0",
+        "cordova-ios": ">=4.3.1"
+      },
+      "<2.0.0": {
+        "cordova": ">=3.5.0"
+      }
+    }
+  },
+  "homepage": "",
+  "keywords": [
+    "cordova",
+    "weChatPay",
+    "weixin",
+    "share",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-weChatPay",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lounai-chen/cordova-plugin-weChatPay.git"
+  },
+  "version": "1.0.0"
+}
